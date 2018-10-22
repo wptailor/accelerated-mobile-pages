@@ -1,0 +1,14 @@
+{
+    "name": "wptailor/accelerated-mobile-pages",
+    "description": "Fork of ahmedkaludi/accelerated-mobile-pages",
+    "type": "wordpress-plugin",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "WPTailor",
+            "email": "ivo@ralev.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
